@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on a IA that forecast power grid outages 
-💻 I'm currently intership at Equatorial Energy company 
-🌱 I’m currently learning front and back-end to be a full stack programmer 
-🌱 I'm currently learning Springboot in java
+- 🔭 I’m currently working on a IA that forecast power grid outages 
+- 💻 I'm currently intership at Equatorial Energy company 
+- 🌱 I’m currently learning front and back-end to be a full stack programmer 
+- 🌱 I'm currently learning Springboot in java
