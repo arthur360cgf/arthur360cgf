@@ -18,4 +18,4 @@ I'm currently a junior programmer and a CS student at UESPI Piripiri.
 - 🔭 I’m currently working on a IA that forecast power grid outages 
 - 💻 I'm currently intership at Equatorial Energy company 
 - 🌱 I’m currently learning front and back-end to be a full stack programmer 
-- 🌱 I'm currently learning Springboot in java
+- 🌱 I'm currently learning Spring boot in java
