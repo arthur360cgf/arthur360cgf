@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 I'm currently a junior programmer and a CS student at UESPI Parnaíba.
 - 📫 you can reach me: arthurmattei115@gmail.com 
 - 🔭 I’m currently working on a IA that forecast power grid outages 
-- 💻 I'm currently intership at Equatorial Energy company 
 - 🌱 I’m currently learning front and back-end to be a full stack programmer 
 - 🌱 I'm currently learning Spring boot in java
 - 🌱 I'm currently learning about machine learning with python
