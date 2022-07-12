@@ -22,7 +22,7 @@ I'm currently a junior programmer and a CS student at UESPI Parnaíba.
 - 🌱 I'm currently learning about machine learning with python
 
 <div align="center">
-  <a href="https://github.com/arthur360cgf"
+  <a href="https://github.com/arthur360cgf
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthur360cgf&show_icons=true&theme=radical&include_all_commits=true&count_private=true%22/%3E
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonmesquita&layout=compact&langs_count=7&theme=radical%22/%3E
 </div>
