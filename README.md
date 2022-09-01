@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm currently a junior programmer and a CS student at UESPI Parnaíba.
-- 📫 you can reach me: arthurmattei115@gmail.com 
-- 🔭 I’m currently working on a IA that forecast power grid outages 
-- 🌱 I’m currently learning front and back-end to be a full stack programmer 
-- 🌱 I'm currently learning Spring boot in java
-- 🌱 I'm currently learning about machine learning with python
+- 📫 you can reach me: arthurmattei115@gmail.com  
+- 🌱 I’m currently studing to be a full stack java programmer 
 
 <div align="center">
   <a href="https://github.com/arthur360cgf">
