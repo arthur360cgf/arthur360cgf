@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm currently a junior programmer and a CS student at UESPI Parnaíba.
 - 📫 you can reach me: arthurmattei115@gmail.com  
 - 🌱 I’m currently studing to be a full stack java programmer 
-- 🌱 I'm currently learning about machine learning with python
+- 🌱 I'm currently learning React and Redux
 
 <div align="center">
   <a href="https://github.com/arthur360cgf">
