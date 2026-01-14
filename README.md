@@ -14,10 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm currently a junior programmer and a CS student at UESPI Parnaíba.
-- 📫 you can reach me: arthurmattei115@gmail.com  
-- 🌱 I’m currently studing to be a full stack java programmer 
-- 🌱 I'm currently learning React and Redux
+I'm currently a junior programmer at Parnaíba.
+- 📫 you can reach me: arthurmattei115@gmail.com 
+- React
+- Springboot
+- Java
+- JDBC
+- JPA
 
 <div align="center">
   <a href="https://github.com/arthur360cgf">
