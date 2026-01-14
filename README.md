@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 I'm currently a junior programmer at Parnaíba.
 - 📫 you can reach me: arthurmattei115@gmail.com 
 - React
+- JS
 - Springboot
 - Java
 - JDBC
